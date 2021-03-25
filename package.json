@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Prompt based README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gFraba/README-Generator.git"
+  },
+  "author": "gFraba (Josh Gagle)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gFraba/README-Generator/issues"
+  },
+  "homepage": "https://github.com/gFraba/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "util": "^0.12.3"
+  }
+}
